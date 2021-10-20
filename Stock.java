@@ -6,7 +6,7 @@ public class Stock {
 	private int numOfShares;
 	private int sharePrice;
 
-	// Constructor
+	// constructor
 	public Stock(String stockName, int numOfShares, int sharePrice) {
 		super();
 		this.stockName = stockName;

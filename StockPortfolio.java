@@ -12,7 +12,7 @@ public class StockPortfolio {
 	private Map<String, Double> stockMap;
 	private double totalStockVal;
 
-	// Constructor
+	// constructor
 	public StockPortfolio() {
 		stocks = new ArrayList<>();
 		stockMap = new HashMap<>();
